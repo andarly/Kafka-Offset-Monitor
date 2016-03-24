@@ -6,4 +6,4 @@ ZK=zookeeper1:2181,zookeeper2:2181...
 REFRESH=10.seconds
 RETAIN=2.days
 
-the app will be exposed to port 8080, just use "docker run -p" or whatever docker scheme you use running it to expose it to the world
+the app will be exposed to port 8080, just use "docker run -p" or whatever docker scheme you use running it to expose it to the world.
